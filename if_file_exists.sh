@@ -2,7 +2,7 @@
 #
 # 1 - This script shows the name of the script.
 # 2 - It needs a parameter .
-# 3 - It verifies if the parameter is an existing file.
+# 3 - It verifies if the parameter is an existing file and then uses the file command on the file.
 #
 echo "Script name $0 "  # Shell variable that contains the script name
 # Verifies if there's a parameter
